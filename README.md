@@ -1,3 +1,5 @@
+This is a perfect successful installation of SIESTA in parallel version. Working on my VMWareWorkStation Pro 15.5 Ubuntu 19.
+
 ## 0. Purpose 
 
 This document contains step-by-step instructions to proceed with a (hopefully) successful installation of the SIESTA (Spanish Initiative for Electronic Simulations with Thousands of Atoms) software on Linux (tested with Ubuntu 18.04) using the GCC and OpenMPI tools for parallelism. 
